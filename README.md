@@ -8,3 +8,8 @@ Este proyecto tiene como objetivo scrapear todas las notas de cada asignatura de
 
 - Scraping de notas de cada asignatura.
 - Análisis exploratorio de las notas para identificar patrones y tendencias.
+
+## Consideraciones
+
+Se ha tenido en cuenta la privacidad de todos los estudiantes y sus notas, por lo que no aparece ninguno de esos datos en todo el proyecto. 
+La idea es mostrar cómo se ha hecho el scraping y el análisis exploratorio.
