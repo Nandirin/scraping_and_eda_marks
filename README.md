@@ -13,3 +13,7 @@ Este proyecto tiene como objetivo scrapear todas las notas de cada asignatura de
 
 Se ha tenido en cuenta la privacidad de todos los estudiantes y sus notas, por lo que no aparece ninguno de esos datos en todo el proyecto. 
 La idea es mostrar cómo se ha hecho el scraping y el análisis exploratorio.
+
+## Alumnos UPV
+
+Para los alumnos de la UPV que estén cursando alguna de las asignaturas analizadas de este grado (CES, BDA, ATD, MET II, EDA), pueden contribuir al proyecto creando un archivo `.env` en el que creen las constantes `DNI` y `PASSWORD` con sus respectivos DNI y contraseña de la UPV. De esta forma pueden ejecutar los scripts para obtener el CSV con las notas de dicha asignatura.
